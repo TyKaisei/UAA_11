@@ -1,0 +1,14 @@
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\bin\Debug\net6.0\5TTI_MatheisD_ProcédureFonctions.exe
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\bin\Debug\net6.0\5TTI_MatheisD_ProcédureFonctions.deps.json
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\bin\Debug\net6.0\5TTI_MatheisD_ProcédureFonctions.runtimeconfig.json
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\bin\Debug\net6.0\5TTI_MatheisD_ProcédureFonctions.dll
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\bin\Debug\net6.0\5TTI_MatheisD_ProcédureFonctions.pdb
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\obj\Debug\net6.0\5TTI_MatheisD_ProcédureFonctions.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\obj\Debug\net6.0\5TTI_MatheisD_ProcédureFonctions.AssemblyInfoInputs.cache
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\obj\Debug\net6.0\5TTI_MatheisD_ProcédureFonctions.AssemblyInfo.cs
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\obj\Debug\net6.0\5TTI_MatheisD_ProcédureFonctions.csproj.CoreCompileInputs.cache
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\obj\Debug\net6.0\5TTI_MatheisD_ProcédureFonctions.dll
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\obj\Debug\net6.0\refint\5TTI_MatheisD_ProcédureFonctions.dll
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\obj\Debug\net6.0\5TTI_MatheisD_ProcédureFonctions.pdb
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\obj\Debug\net6.0\5TTI_MatheisD_ProcédureFonctions.genruntimeconfig.cache
+H:\UAA11\5TTI_MatheisD_ProcédureFonctions\obj\Debug\net6.0\ref\5TTI_MatheisD_ProcédureFonctions.dll
