@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jQ0MRxeb0udh3bjtuVAUZ/iHTVLdkKs6a1BdMyPjx4MlhfX64v48RlV70d+Va+xUeE8vc1HzZkqnyPBgtbgUgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathe\\Desktop\\5TTI_MatheisD_SelectionPairsImpairs\\5TTI_MatheisD_SelectionPairsImpairs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

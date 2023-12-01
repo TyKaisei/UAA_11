@@ -1,0 +1,14 @@
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\bin\Debug\net6.0\5TTI_MatheisD_SelectionPairsImpairs.exe
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\bin\Debug\net6.0\5TTI_MatheisD_SelectionPairsImpairs.deps.json
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\bin\Debug\net6.0\5TTI_MatheisD_SelectionPairsImpairs.runtimeconfig.json
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\bin\Debug\net6.0\5TTI_MatheisD_SelectionPairsImpairs.dll
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\bin\Debug\net6.0\5TTI_MatheisD_SelectionPairsImpairs.pdb
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\obj\Debug\net6.0\5TTI_MatheisD_SelectionPairsImpairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\obj\Debug\net6.0\5TTI_MatheisD_SelectionPairsImpairs.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\obj\Debug\net6.0\5TTI_MatheisD_SelectionPairsImpairs.AssemblyInfo.cs
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\obj\Debug\net6.0\5TTI_MatheisD_SelectionPairsImpairs.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\obj\Debug\net6.0\5TTI_MatheisD_SelectionPairsImpairs.dll
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\obj\Debug\net6.0\refint\5TTI_MatheisD_SelectionPairsImpairs.dll
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\obj\Debug\net6.0\5TTI_MatheisD_SelectionPairsImpairs.pdb
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\obj\Debug\net6.0\5TTI_MatheisD_SelectionPairsImpairs.genruntimeconfig.cache
+C:\Users\mathe\Desktop\5TTI_MatheisD_SelectionPairsImpairs\obj\Debug\net6.0\ref\5TTI_MatheisD_SelectionPairsImpairs.dll
